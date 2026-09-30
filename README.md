@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [LTLC — Leakage-Controlled Evaluation of Long-Tail Correction for Hyperspectral Image Classification](https://github.com/tniha10/LTLC-HSI)
 
-- 🌱 I’m currently learning **Flutter, React, FastAPI**
+- 🌱 I’m currently learning **Authentication With BetterAuth & Next.js**
 
 - 📫 How to reach me **tahsinamamun10@gmail.com**
 
-- ⚡ Fun fact **I am an avid book reader.**
+- ⚡ Fun fact **I am an avid book reader and a reviewer in Fable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
