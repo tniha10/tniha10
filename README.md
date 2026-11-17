@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tahsina Mamun Niha</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tniha10" alt="tniha10" /></a> </p>
-
 - 🔭 I’m currently working on [StudioSpace](https://github.com/tniha10/studiospace)
 
 - 🌱 I’m currently learning **JWT authentication, role-based middleware and full-stack deployment (React, Node, Express, MongoDB)**
